@@ -62,9 +62,8 @@ For each module, I will provide a list of additional video tutorials and reading
 ### Code Examples
 
 - 💻 [All Nature of Code Examples](https://editor.p5js.org/codingtrain/collections/qTyT_RX11)
-- 💻 [Nature of Code Introduction Example Collection](https://editor.p5js.org/natureofcode/collections/q6TdDnTAp)
+- 💻 [Nature of Code Chapter 0 Example Collection](https://editor.p5js.org/natureofcode/collections/q6TdDnTAp)
 - 💻 [Additional Perlin Noise Example Collection](https://editor.p5js.org/codingtrain/collections/qTyT_RX11)
-- 💻 [Basic Random Walk](https://editor.p5js.org/codingtrain/sketches/N-qqe1ExZ)
 - 💻 [Diffusion Limited Aggregation](https://editor.p5js.org/codingtrain/sketches/XpS9wGkbB)
 - 💻 [Random Walk Lévy Flight](https://editor.p5js.org/codingtrain/sketches/L24X90MBH)
 

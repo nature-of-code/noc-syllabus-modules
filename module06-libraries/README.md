@@ -1,4 +1,4 @@
-# Soft Body (and Rigid Body) Physics
+# Using Libraries for Rigit and Soft-Body Simulation
 
 ## Core Material
 

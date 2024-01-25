@@ -24,9 +24,9 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 ### Videos
 
-- 🚂 [Introduction to Perlin Noise](https://youtu.be/Qf4dIN99e2w) - 11 min
-- 🚂 [Perlin noise() vs. random()](https://youtu.be/YcdldZ1E9gU) - 10 min
-- 🚂 [Graphing 1D noise](https://youtu.be/y7sgcFhk6ZM) - 13 min
+- 🚂 [Introduction to Perlin Noise](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/perlin/intro-to-perlin-noise) - 11 min
+- 🚂 [Perlin noise() vs. random()](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/perlin/noise-vs-random) - 10 min
+- 🚂 [Graphing 1D noise](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/perlin/graphing-1d-perlin-noise) - 13 min
 - 🚂 [2D Random Walk](https://thecodingtrain.com/challenges/52-random-walker) - 15 min
 
 ### Reference Research and Artistic Work:
@@ -51,7 +51,7 @@ For each module, I will provide a list of additional video tutorials and reading
 - 📕 [Perlin Noise with p5.js](http://genekogan.com/code/p5js-perlin-noise/) by Gene Kogan
 - 🚂 [2D Perlin Noise](https://youtu.be/ikwNrFvnL3g?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 11 min
 - 🚂 [noiseDetail()](https://youtu.be/D1BBj2VaBl4?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 4 min
-- 🚂 [Open Simplex Noise](https://youtu.be/Lv9gyZZJPE0?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM)
+- 🚂 [Open Simplex Noise](https://thecodingtrain.com/tracks/noise/noise/open-simplex-noise)
 
 ### More about Random Walks
 
@@ -61,6 +61,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Code Examples
 
+- 💻 [All Nature of Code Examples](https://editor.p5js.org/codingtrain/collections/qTyT_RX11)
 - 💻 [Nature of Code Introduction Example Collection](https://editor.p5js.org/natureofcode/collections/q6TdDnTAp)
 - 💻 [Additional Perlin Noise Example Collection](https://editor.p5js.org/codingtrain/collections/qTyT_RX11)
 - 💻 [Basic Random Walk](https://editor.p5js.org/codingtrain/sketches/N-qqe1ExZ)
@@ -90,4 +91,4 @@ Another way of thinking about the assignment is to apply the rules of motion to 
   - Narrate the process of creating your sketch.
   - What resources and examples did you draw on to create your sketch? What was most helpful / least helpful from this week’s materials.
   - What problems/discoveries did you encounter along the way?
-- Submit a link to your blog post to the [course wiki](https://github.com/nature-of-code/noc-syllabus-S23/wiki).
+- [Submit a link to your blog post to the course wiki](https://github.com/nature-of-code/noc-syllabus-S24/wiki).

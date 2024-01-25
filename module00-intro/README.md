@@ -20,7 +20,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 ### Text
 
-- 📕 [Nature of Code 2nd Edition Introduction](https://natureofcode.com/introduction/)
+- 📕 [Nature of Code Chapter 0](https://natureofcode.com/random)
 
 ### Videos
 

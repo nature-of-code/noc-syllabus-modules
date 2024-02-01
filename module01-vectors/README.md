@@ -6,7 +6,7 @@ This module, we are really digging into the foundational material for the class.
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- 📗 [Nature of Code p5.js edition draft Chapter 1: Vectors](https://natureofcode.com/vectors/)
+- 📗 [Nature of Coe Chapter 1: Vectors](https://natureofcode.com/vectors/)
 - 🚂 [What is a Vector?](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/1-vectors/1-what-is-a-vector) - 15 min
 - 🚂 [Vector Math](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/1-vectors/2-vector-math) - 12 min
 - 🚂 [Random Vectors](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/1-vectors/3-random-vectors) - 9 min
@@ -40,7 +40,7 @@ Following are videos on a variety of topics with code examples making use of vec
 Try using vectors! Here are some suggestions:
 
 - Find any sketch you previously created in p5.js with separate `x`,`y` variables for elements on the sketch. Can you rewrite the sketch with `createVector()` for each of these pairs? For example, rework your sketch from week 1 and use vectors! Try incorporating the concept of _acceleration_. Can you create a methodology for calculating a dynamic acceleration, one that changes over time based on any number of factors? What is a random "acceleration" walk?
-- Zannah Marsh, illustrator for the Nature of Code book, created [a guide to creature design with code](https://docs.google.com/document/d/1klciKQwtuM6iqBghASlCCEQDh4-cN1qJSSul30vflZs/edit). Consider creating your own creature design in p5.js and incorporating it into the `Walker` or `Mover` class from any of the examples.
+- Zannah Marsh, illustrator for the Nature of Code book, created [a guide to creature design with code](https://natureofcode.com/appendix-creature/). Consider creating your own creature design in p5.js and incorporating it into the `Walker` or `Mover` class from any of the examples.
 
 ### Instructions
 

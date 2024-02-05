@@ -6,7 +6,7 @@ This module, we are really digging into the foundational material for the class.
 
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
-- 📗 [Nature of Coe Chapter 1: Vectors](https://natureofcode.com/vectors/)
+- 📗 [Nature of Code Chapter 1: Vectors](https://natureofcode.com/vectors/)
 - 🚂 [What is a Vector?](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/1-vectors/1-what-is-a-vector) - 15 min
 - 🚂 [Vector Math](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/1-vectors/2-vector-math) - 12 min
 - 🚂 [Random Vectors](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/1-vectors/3-random-vectors) - 9 min

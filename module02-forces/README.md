@@ -5,12 +5,12 @@
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
 - 📗 [Chapter 2](https://natureofcode.com/force/)
-- 🚂 [2.1 Simulating Forces: Gravity and Wind](https://youtu.be/Uibl0UE4VH8?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 24 min
-- 🚂 [2.2 Mass and Acceleration](https://youtu.be/L7CECWLdTmo?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 12 min
-- 🚂 [2.3 Friction Force](https://youtu.be/WBdhAuWS6X8?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 14 min
-- 🚂 [2.4 Drag Force](https://youtu.be/DxFDgOYEoy8?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 11 min
-- 🚂 [2.5 Gravitational Attraction](https://youtu.be/EpgB3cNhKPM?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 16 min
-- 🚂 [2.6 Mutual Attraction](https://youtu.be/GjbKsOkN1Oc?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 22 min
+- 🚂 [2.1 Simulating Forces: Gravity and Wind](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/2-forces/1-gravity-and-wind) - 24 min
+- 🚂 [2.2 Mass and Acceleration](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/2-forces/2-mass-and-acceleration) - 12 min
+- 🚂 [2.3 Friction Force](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/2-forces/3-friction-force) - 14 min
+- 🚂 [2.4 Drag Force](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/2-forces/4-drag-force) - 11 min
+- 🚂 [2.5 Gravitational Attraction](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/2-forces/5-gravitational-attraction) - 16 min
+- 🚂 [2.6 Mutual Attraction](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/2-forces/6-mutual-attraction) - 22 min
 
 ### Reference Research and Artistic Work:
 
@@ -48,7 +48,7 @@ Develop a sketch with motion driven by forces (vectors). Here are some ideas:
   - Narrate the process of creating your sketch.
   - What resources and examples did you draw on to create your sketch? What was most helpful / least helpful from this week’s materials.
   - What problems/discoveries did you encounter along the way?
-- Submit a link to your post to [the course wiki](https://github.com/nature-of-code/noc-syllabus-S23/wiki).
+- Submit a link to your blog post to the course wiki. - [ITP Section](https://github.com/nature-of-code/noc-syllabus-S24/wiki), [IMA Section](https://github.com/lenincompres/ima-noc-2024/wiki)
 
 ## Emoji Key
 

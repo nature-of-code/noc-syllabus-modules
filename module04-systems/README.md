@@ -51,7 +51,15 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ## Assignment
 
-- Coming momentarily...
+It is totally reasonable to simply refactor an assignment from previous weeks with new organization ideas (`System` class, inheritance, higher-order array functions, and more!). Some other ideas (along the lines of the visual design of a particle system) are below and, as usual, you are welcome to invent your own exercise inspired by this week's material!
+
+- Use a particle system in the design of a "Mover" object. In other words take one of the earlier examples and instead of rendering a `Mover` as a simple circle, emit particles from the mover's location. [Sample "asteroids"-style example](https://editor.p5js.org/noc-s24/sketches/gxxBbpLSX).
+- Model a specific visual effect using a particle system -- fire, [smoke](https://editor.p5js.org/natureofcode/sketches/9c_CPrg3Bp), fireworks, waterfall,
+- Create a simulation of an object shattering into many pieces. How can you turn one large shape into many small particles? What if there are several large shapes on the screen and they shatter when you click on them? ([Sample Shattering](https://editor.p5js.org/natureofcode/sketches/nspf_XtLV))
+- Create a particle system with different “kinds” of particles in the same system. Try varying more than just the look of the particles. How do you deal with different behaviors using inheritance?
+- Experiment with image textures for particles. How might you use an array of images assigning each `Particle` a different image? ([Sample Image Textures](https://editor.p5js.org/natureofcode/sketches/j4HVdBEAM6)). What kinds of blendMode() or other visual enhancements might you consider?
+
+Submit a link to your blog post to the course wiki. - [ITP Section](https://github.com/nature-of-code/noc-syllabus-S24/wiki), [IMA Section](https://github.com/lenincompres/ima-noc-2024/wiki)
 
 ## Emoji Key
 

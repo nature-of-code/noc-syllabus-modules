@@ -45,7 +45,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Higher-Order Array Functions
 
-- 🚂 [Higher-Order Array function videos](https://youtu.be/m9bRVQ_-DXY?list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
+- 🚂 [Higher-Order Array function videos](https://thecodingtrain.com/hof)
 - 🚂 [Particle System with higher-order functions](https://youtu.be/m9bRVQ_-DXY?list=PLRqwX-V7Uu6YgpA3Oht-7B4NBQwFVe3pr)
 - 📕 [Higher order function from Eloquent JavaScript](http://eloquentjavascript.net/05_higher_order.html)
 

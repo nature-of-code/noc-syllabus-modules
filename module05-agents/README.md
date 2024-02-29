@@ -31,7 +31,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 - [Flow Fields](https://tylerxhobbs.com/essays/2020/flow-fields) by Tyler Hobbs
 - [Process Compendium](https://vimeo.com/22955812) by Casey Reas, [Processing Compendium Text](https://reas.com/compendium_text/)
 - [Living Wall](https://spacefiller.space/livingwall/) by SPACEFILLER
-- [Murmuration](https://roberthodgin.com/project/murmuration) by
+- [Murmuration](https://roberthodgin.com/project/murmuration) by Robert Hodgin
 
 ## Supplemental Material
 
@@ -59,6 +59,10 @@ For each module, I will provide a list of additional video tutorials and reading
 - 💻 [QuadTree JS Library in Progress](https://github.com/CodingTrain/QuadTree)
 - 💻 [QuadTree p5 example](https://editor.p5js.org/natureofcode/sketches/Y8hseRvYe)
 - 🚂 [QuadTree Coding Challenge](https://thecodingtrain.com/challenges/98-quadtree)
+
+## Assignment
+
+- [Simulation Project - ITP Section](https://github.com/nature-of-code/noc-syllabus-S24/tree/main/projects/simulation), [Simulation Project - IMA Section](https://github.com/lenincompres/ima-noc-2024/tree/main/projects/simulation)
 
 ## Emoji Key
 

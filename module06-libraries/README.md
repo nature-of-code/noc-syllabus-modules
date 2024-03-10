@@ -1,4 +1,4 @@
-# Using Libraries for Rigit and Soft-Body Simulation
+# Libraries for Rigid and Soft-Body Simulation
 
 ## Core Material
 
@@ -6,6 +6,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 - 📗 [Chapter 6: Physics Libraries](https://natureofcode.com/physics-libraries/)
 - 📕 [Advanced Character Physics](http://www.cs.cmu.edu/afs/cs/academic/class/15462-s13/www/lec_slides/Jakobsen.pdf)
+- 🚂 [Soft Body Character video and code examples](https://thecodingtrain.com/challenges/177-soft-body-character)
 
 ### Code Examples
 
@@ -48,10 +49,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 ## Assignment
 
-- Option 1: Create an interactive soft body character with the toxiclibs.js VerletPhysics2D library [using the example built in class as a model](https://editor.p5js.org/noc_spring23/sketches/6AsvNEUFj). Try expanding the design from a triangle to your own custom shape. What can you incorporate visually such as colors, textures, or other enhancements?
-- Option 2: Create a "force-directed graph" with the toxiclibs.js VerletPhysics2D library [using the example built in class as a model](https://editor.p5js.org/noc_spring23/sketches/6AsvNEUFj). What data do the particles (nodes) and springs (edges) represent? What can you incorporate visually such as colors, labels, or other enhancements?
-
-Document your work with a short post and submit link [on the course wiki](https://github.com/nature-of-code/noc-syllabus-S23/wiki).
+- [Simulation Project - ITP Section](https://github.com/nature-of-code/noc-syllabus-S24/tree/main/projects/simulation), [Simulation Project - IMA Section](https://github.com/lenincompres/ima-noc-2024/tree/main/projects/simulation)
 
 ## Emoji Key
 

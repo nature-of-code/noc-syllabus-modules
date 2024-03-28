@@ -16,7 +16,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 ### Reference Research and Artistic Work:
 
 - [“Blah blah blobby”](https://vimeo.com/41057777) by Marcela Godoy, Eunyoung Kang
-- [mta.me](https://www.chenalexander.com/Mta-me0) by Alexander Chen
+- [mta.me](https://www.chenalexander.com/Mta-me) by Alexander Chen
 - [Ricardo Sanchez Jellyfish](https://www.nardove.com/)
 - [Makign of Nokia Friends](https://www.youtube.com/watch?v=g20QOQP6kSU)
 

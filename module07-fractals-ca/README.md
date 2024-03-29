@@ -64,6 +64,8 @@ For this week's exercise pick one of the above examples to serve as the foundati
 3. What designs can you create by varying the visual quality of each subsequent generation of fractal recursion? For example with the `strokeWeight()` for each branch, a tree could have a thick root with subsequently thinner branches.
 4. In what ways could the physics algorithms from modules 1-5 be applied to a fractal shape?
 
+Submit a link to your blog post to the course wiki. - [ITP Section](https://github.com/nature-of-code/noc-syllabus-S24/wiki), [IMA Section](https://github.com/lenincompres/ima-noc-2024/wiki)
+
 ## Emoji Key
 
 The following emoji key will hopefully help you navigate the material for each module.

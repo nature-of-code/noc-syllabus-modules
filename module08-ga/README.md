@@ -7,10 +7,10 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 📗 [Nature of Code Chapter 9: Genetic Algorithms](https://natureofcode.com/genetic-algorithms/)
 - 📕 [Section 11.3 from Kate Compton’s Doctoral Thesis “Casual Creators”](http://www.galaxykate.com/pdfs/kcompton-dissertation-casualcreators.pdf) (p. 262 - 267) (2019)
 - 🎥 [Karl Sims Evolved Virtual Creatures](https://youtu.be/RZtZia4ZkX8) - 4 min
-- 🚂 9.1 [Introduction to Genetic Algorithms](https://youtu.be/9zfeTw-uFCw?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 12 min
-- 🚂 9.2 [Genetic Algorithms How it Works](https://youtu.be/RxTfc4JLYKs?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 23 min
-- 🚂 9.3 [Shakespeare Monkey GA](https://youtu.be/nrKjSeoc7fc?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 8 min
-- 🚂 9.4 [Looking at the Code GA](https://youtu.be/-jv3CgDN9sc?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 23 min
+- 🚂 9.1 [Introduction to Genetic Algorithms](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/9-genetic-algorithms/1-introduction) - 12 min
+- 🚂 9.2 [Genetic Algorithms How it Works](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/9-genetic-algorithms/2-how-it-works) - 23 min
+- 🚂 9.3 [Shakespeare Monkey GA](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/9-genetic-algorithms/3-shakespeare-monkey-example) - 8 min
+- 🚂 9.4 [Looking at the Code GA](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/9-genetic-algorithms/4-looking-at-code) - 23 min
 - 🎥 [Simulation Natural Selection from Primer](https://www.youtube.com/watch?v=0ZGbIKd0XrM&feature=youtu.be) - 10 min
 
 ## Code Examples
@@ -32,9 +32,9 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Additional Techniques
 
-- 🚂 9.5 [Genotype vs. Phenotype](https://youtu.be/_of6UVV4HGo?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 14 min
-- 🚂 9.9 [Interactive Selection](https://youtu.be/Zy_obitkyOE?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 8 min
-- 🚂 9.10 [Continuous Evolutionary System](https://youtu.be/Sx_l2GxBC5w?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 8 min
+- 🚂 9.5 [Genotype vs. Phenotype](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/9-genetic-algorithms/5-genotype-vs-phenotype) - 14 min
+- 🚂 9.9 [Interactive Selection](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/9-genetic-algorithms/9-interactive-selection) - 8 min
+- 🚂 9.10 [Continuous Evolutionary System](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/9-genetic-algorithms/10-continuous-evolutionary-systems) - 8 min
 
 ### Project Demos
 
@@ -44,9 +44,9 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Genetic Algorithm Optimization
 
-- 🚂 9.6 [Improved Fitness](https://youtu.be/HzaLIO9dLbA?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 5 min
-- 🚂 9.7 [Improved Pool Selection 1](https://youtu.be/816ayuhDo0E?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 16 min
-- 🚂 9.8 [Improved Pool Selection 2](https://youtu.be/ETphJASzYes?list=PLRqwX-V7Uu6bJM3VgzjNV5YxVxUwzALHV) - 18 min
+- 🚂 9.6 [Improved Fitness](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/9-genetic-algorithms/6-improved-fitness-function) - 5 min
+- 🚂 9.7 [Improved Pool Selection 1](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/9-genetic-algorithms/7-pool-selection) - 16 min
+- 🚂 9.8 [Improved Pool Selection 2](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/9-genetic-algorithms/8-improved-pool-selection) - 18 min
 
 ### Further Reading
 
@@ -56,7 +56,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ## Assignment
 
-- Create a final project proposal. See [final project guidelines](https://github.com/nature-of-code/noc-syllabus-S23/blob/main/projects/final/README.md). Submit a link to your proposal [on the course wiki](https://github.com/nature-of-code/noc-syllabus-S23/wiki) and come prepared to share your idea for feedback in small groups next week.
+- Create a final project proposal. See [final project guidelines](https://github.com/nature-of-code/noc-syllabus-S24/blob/main/projects/final/README.md). Submit a link to your proposal [on the course wiki](https://github.com/nature-of-code/noc-syllabus-S24/wiki), project ideas will be shared split over the next two classes (schedule on the wiki).
 
 ## Emoji Key
 

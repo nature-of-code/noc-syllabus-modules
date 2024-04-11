@@ -12,6 +12,8 @@ For each module, I will provide written and video tutorials on the topics. You c
 
 ## Code Examples
 
+***UPDATED EXAMPLES TO BE POSTED SHORTLY!***
+
 - 💻 [Nature of Code 10.1: Simple Perceptron](https://editor.p5js.org/natureofcode/sketches/HkJ0cRmux)
 - 💻 [Train Your Own Neural Network ml5.js](https://editor.p5js.org/codingtrain/sketches/zwGahux8a)
 - 💻 [Neuroevolution w/ ml5.js: Evolve Velocity](https://editor.p5js.org/natureofcode-archive/sketches/CF9M3atLy)

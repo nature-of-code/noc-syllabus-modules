@@ -1,4 +1,4 @@
-# Genetic Algorithms
+# Neural Networks
 
 ## Core Material
 

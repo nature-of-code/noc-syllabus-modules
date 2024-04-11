@@ -8,7 +8,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 📗 [Nature of Code Chapter 10](https://natureofcode.com/neural-networks/)
 - 📗 [Nature of Code Chapter 11](https://natureofcode.com/neuroevolution/)
 - 🎥 [What is a Neural Network?](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) from 3Blue1Brown (19 minutes)
-- 🚂 [Train a Neural Network with ml5.js](https://thecodingtrain.com/learning/ml5/6.1-train-your-own.html) (35 minutes)
+- 🚂 [Train a Neural Network with ml5.js](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/6-train-your-own-neural-network/1-train-the-model) (35 minutes)
 
 ## Code Examples
 

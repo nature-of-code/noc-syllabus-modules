@@ -9,15 +9,13 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 📗 [Nature of Code Chapter 11](https://natureofcode.com/neuroevolution/)
 - 🎥 [What is a Neural Network?](https://youtu.be/aircAruvnKk?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) from 3Blue1Brown (19 minutes)
 - 🚂 [Train a Neural Network with ml5.js](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/6-train-your-own-neural-network/1-train-the-model) (35 minutes)
+- 💻 [All Chapter 10 and 11 Examples](https://editor.p5js.org/natureofcode/collections/HkRZWLqOXS)
 
-## Code Examples
+### ml5.js "next generation" alpha
 
-***UPDATED EXAMPLES TO BE POSTED SHORTLY!***
-
-- 💻 [Nature of Code 10.1: Simple Perceptron](https://editor.p5js.org/natureofcode/sketches/HkJ0cRmux)
-- 💻 [Train Your Own Neural Network ml5.js](https://editor.p5js.org/codingtrain/sketches/zwGahux8a)
-- 💻 [Neuroevolution w/ ml5.js: Evolve Velocity](https://editor.p5js.org/natureofcode-archive/sketches/CF9M3atLy)
-- 💻 [Neuroevolution w/ ml5.js: Flappy Bird](https://editor.p5js.org/natureofcode-archive/sketches/gF3JHSwca)
+- [ml5.js next gen alpha examples](https://editor.p5js.org/ml5/collections/pUzWMkdmE)
+- [ml5.js next gen temporary docs](https://github.com/ml5js/ml5-next-gen/blob/main/documentation.md)
+- [ml5.js next gen repo](https://github.com/ml5js/ml5-next-gen)
 
 ### Reference Research and Artistic Work:
 
@@ -66,11 +64,3 @@ The following emoji key will hopefully help you navigate the material for each m
 - 📕 Other reading
 - 💻 Code examples
 - 🎨 Creative project references
-
-### Examples from 2021
-
-- https://editor.p5js.org/natureofcode-archive/sketches/uMKZm0aEW
-- https://editor.p5js.org/natureofcode-archive/sketches/WswXPZdd4
-- https://editor.p5js.org/natureofcode-archive/sketches/Rjm816gLl
-- https://editor.p5js.org/natureofcode-archive/sketches/CF9M3atLy
-- https://editor.p5js.org/natureofcode-archive/sketches/gF3JHSwca

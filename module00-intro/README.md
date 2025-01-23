@@ -2,7 +2,7 @@
 
 Welcome to the class! This first module is about getting acclimated to the class. What coding language / environment would you like to use? Suggested is p5.js but you are welcome to create your assignments with any language or framework you like.
 
-- [Introduction Slides](https://docs.google.com/presentation/d/1cQW-pC2c9kEFse-_g5KHol3DPVtHnHrlMuWKtwunjx4/edit?usp=sharing)
+- [Introduction Slides](https://docs.google.com/presentation/d/1iL0bbOMbS_S8ssUGRecb7rtTZW9W9HaZrV0YKVRn36g/edit?usp=sharing)
 
 ## Emoji Key
 

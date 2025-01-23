@@ -48,6 +48,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### More about noise
 
+- 📕 [Characteristics of Modified Noise](https://palmdrop.site/nodes/modified-noise)
 - 📕 [Perlin Noise with p5.js](http://genekogan.com/code/p5js-perlin-noise/) by Gene Kogan
 - 🚂 [2D Perlin Noise](https://youtu.be/ikwNrFvnL3g?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 11 min
 - 🚂 [noiseDetail()](https://youtu.be/D1BBj2VaBl4?list=PLRqwX-V7Uu6ZV4yEcW3uDwOgGXKUUsPOM) - 4 min

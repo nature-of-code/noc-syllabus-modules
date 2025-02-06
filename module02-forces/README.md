@@ -15,6 +15,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 ### Reference Research and Artistic Work:
 
 - [Mud Tub](http://tomgerhardt.com/mudtub/) by Tom Gerhardt
+- [Emily Webster's ‘The Abscissa Cycle’ from Nature of Code 2012](http://emilywebster.com/abscissa/) and - - [Laws of Attraction by Wipawe from Nature of Code 2016](https://wipaweeeeee.github.io/creativeCoding/lawsOfAttraction/index.html).
 - [Crawling Through New York City, performance by Pope.L](https://www.newyorker.com/culture/culture-desk/crawling-through-new-york-city-with-the-artist-pope-l)
 
 ## Supplemental Material
@@ -39,8 +40,8 @@ Develop a sketch with motion driven by forces (vectors). Here are some ideas:
 - Create pockets of air resistance / friction in a p5 sketch. Try using circles instead of rectangles, i.e. pockets of mud (or ice). What if you vary the strength (drag / friction coefficient) of each circle? What if you make some of them the opposite of drag—i.e., when you enter a given pocket you actually speed up instead of slow down?
 - Research a force not covered in class and implement it as a vector.
 - Use the concept of forces to visualize some input (Could be data, literal example would be use wind data and translate to a wind force in p5 (see: [The Wind Map](http://hint.fm/wind/)), but feel free to think more abstractly.)
-- Build a sketch that has both "Particles" and "Attractors". What if you make the Attractors invisible? Can you create a pattern / design from the trails of objects moving around attractors? This [p5.js coding challenge attraction video](https://thecodingtrain.com/challenges/56-attraction-and-repulsion-forces) and corresponding [attraction repulsion code example](https://editor.p5js.org/codingtrain/full/6WL2O4vq0) offers starting point. For inspiration, take a look at [Emily Webster's ‘The Abscissa Cycle’ from Nature of Code 2012](http://emilywebster.com/abscissa/) and [Laws of Attraction by Wipawe from Nature of Code 2016](https://wipaweeeeee.github.io/creativeCoding/lawsOfAttraction/index.html).
-- The paper [“Classification of Symmetry Groups for Planar n-Body Choreographies” by James Montaldi and Katrina Steckles](https://doi.org/10.1017/fms.2013.5) explores <em>choreographic</em> solutions to the <em>n</em>-body problem (defined as periodic motions of bodies following one another at regular intervals). Educator and artist Dan Gries created [an interactive demonstration of these choreographies](https://dangries.com/rectangleworld/demos/nBody). Try adding a third (or more!) body to [Example 2.8: Two Body](https://editor.p5js.org/natureofcode/sketches/cmj37xPCM) and experiment with setting initial positions and velocities. What choreographies can you achieve?</p>
+- Build a sketch that has both "Particles" and "Attractors". What if you make the Attractors invisible? Can you create a pattern / design from the trails of objects moving around attractors? This [p5.js coding challenge attraction video](https://thecodingtrain.com/challenges/56-attraction-and-repulsion-forces) and corresponding [attraction repulsion code example](https://editor.p5js.org/codingtrain/full/6WL2O4vq0) offers starting point.
+- The paper [“Classification of Symmetry Groups for Planar n-Body Choreographies” by James Montaldi and Katrina Steckles](https://doi.org/10.1017/fms.2013.5) explores <em>choreographic</em> solutions to the <em>n</em>-body problem (defined as periodic motions of bodies following one another at regular intervals). Educator and artist Dan Gries created [an interactive demonstration of these choreographies](https://dangries.com/rectangleworld/demos/nBody). Try adding a third (or more!) body to [Example 2.8: Two Body](https://editor.p5js.org/natureofcode/sketches/cmj37xPCM) and experiment with setting initial positions and velocities. What choreographies can you achieve?
 
 ### Instructions
 
@@ -49,7 +50,7 @@ Develop a sketch with motion driven by forces (vectors). Here are some ideas:
   - Narrate the process of creating your sketch.
   - What resources and examples did you draw on to create your sketch? What was most helpful / least helpful from this week’s materials.
   - What problems/discoveries did you encounter along the way?
-- Submit a link to your blog post to the course wiki. - [ITP Section](https://github.com/nature-of-code/noc-syllabus-S24/wiki), [IMA Section](https://github.com/lenincompres/ima-noc-2024/wiki)
+- Submit a link to your blog post to the course wiki. - [ITP Section](https://github.com/nature-of-code/noc-syllabus-S25/wiki)
 
 ## Emoji Key
 

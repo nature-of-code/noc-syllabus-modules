@@ -15,7 +15,8 @@ For each module, I will provide written and video tutorials on the topics. You c
 ### Reference Research and Artistic Work:
 
 - [Mud Tub](http://tomgerhardt.com/mudtub/) by Tom Gerhardt
-- [Emily Webster's ‘The Abscissa Cycle’ from Nature of Code 2012](http://emilywebster.com/abscissa/) and - - [Laws of Attraction by Wipawe from Nature of Code 2016](https://wipaweeeeee.github.io/creativeCoding/lawsOfAttraction/index.html).
+- [Emily Webster's ‘The Abscissa Cycle’ from Nature of Code 2012](http://emilywebster.com/abscissa/)
+- [Laws of Attraction by Wipawe from Nature of Code 2016](https://wipaweeeeee.github.io/creativeCoding/lawsOfAttraction/index.html).
 - [Crawling Through New York City, performance by Pope.L](https://www.newyorker.com/culture/culture-desk/crawling-through-new-york-city-with-the-artist-pope-l)
 
 ## Supplemental Material

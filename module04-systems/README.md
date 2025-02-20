@@ -59,7 +59,7 @@ It is totally reasonable to simply refactor an assignment from previous weeks wi
 - Create a particle system with different “kinds” of particles in the same system. Try varying more than just the look of the particles. How do you deal with different behaviors using inheritance?
 - Experiment with image textures for particles. How might you use an array of images assigning each `Particle` a different image? ([Sample Image Textures](https://editor.p5js.org/natureofcode/sketches/j4HVdBEAM6)). What kinds of blendMode() or other visual enhancements might you consider?
 
-Submit a link to your blog post to the course wiki. - [ITP Section](https://github.com/nature-of-code/noc-syllabus-S24/wiki), [IMA Section](https://github.com/lenincompres/ima-noc-2024/wiki)
+Submit a link to your blog post to the course wiki. - [ITP Section](https://github.com/nature-of-code/noc-syllabus-S25/wiki)
 
 ## Emoji Key
 

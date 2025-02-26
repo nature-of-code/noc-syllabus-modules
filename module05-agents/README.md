@@ -62,7 +62,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ## Assignment
 
-- [Simulation Project - ITP Section](https://github.com/nature-of-code/noc-syllabus-S24/tree/main/projects/simulation), [Simulation Project - IMA Section](https://github.com/lenincompres/ima-noc-2024/tree/main/projects/simulation)
+- [Simulation Project](https://github.com/nature-of-code/noc-syllabus-S25/tree/main/projects/simulation)
 
 ## Emoji Key
 

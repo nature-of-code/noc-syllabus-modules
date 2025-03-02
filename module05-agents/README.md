@@ -62,7 +62,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ## Assignment
 
-- [Simulation Project](https://github.com/nature-of-code/noc-syllabus-S25/tree/main/projects/simulation)
+- [Simulation Project](https://github.com/nature-of-code/noc-syllabus-S25/tree/main/projects/simulation) - due Thursday, March 13
 
 ## Emoji Key
 

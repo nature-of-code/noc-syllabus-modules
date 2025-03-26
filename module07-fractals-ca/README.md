@@ -45,7 +45,14 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ### Assignment
 
-For this week's exercise pick one of the above examples to serve as the foundation of your assignment. It can any of the fractal or CA examples, or a related aglorithm you find through your own research. Create your own version of the algorithm, and iterate variations on the idea by exploring custom visual design elements or rule adjustments. Below is a long list of ideas to explore for CA and Fractals.
+For this week's exercise, select any of the examples above or in class to use as a foundation. Choose from the fractal or CA examples, or a related algorithm you find through your own research. Implement your own version of the algorithm and create variations by exploring custom visual design elements or rule adjustments. Below is a long list of ideas to explore for CA and Fractals.
+
+#### Fractals
+
+1. Stochastic: What if each step of fractal recursion involves some level of randomness. For example, what is each branch of a tree has a random number of sub-branches? What if the angles are random?
+2. Oscillation / Noise: Can you apply oscillating motion or Perlin noise to the properties of a fractal. For example, can a Fractal tree "sway"?
+3. What designs can you create by varying the visual quality of each subsequent generation of fractal recursion? For example with the `strokeWeight()` for each branch, a tree could have a thick root with subsequently thinner branches.
+4. In what ways could the physics algorithms from modules 1-5 be applied to a fractal shape?
 
 #### CA
 
@@ -57,14 +64,7 @@ For this week's exercise pick one of the above examples to serve as the foundati
 6. Moving cells. In these basic examples, cells have a fixed position on a grid, but you could build a CA with cells that have no fixed position and instead move about the screen. What CA rules were applied to flocking boids?!
 7. Nesting. Another feature of complex systems is that they can be nested. Our world tends to work this way: a city is a complex system of people, a person is a complex system of organs, an organ is a complex system of cells, and so on and so forth.
 
-#### Fractals
-
-1. Stochastic: What if each step of fractal recursion involves some level of randomness. For example, what is each branch of a tree has a random number of sub-branches? What if the angles are random?
-2. Oscillation / Noise: Can you apply oscillating motion or Perlin noise to the properties of a fractal. For example, can a Fractal tree "sway"?
-3. What designs can you create by varying the visual quality of each subsequent generation of fractal recursion? For example with the `strokeWeight()` for each branch, a tree could have a thick root with subsequently thinner branches.
-4. In what ways could the physics algorithms from modules 1-5 be applied to a fractal shape?
-
-Submit a link to your blog post to the course wiki. - [ITP Section](https://github.com/nature-of-code/noc-syllabus-S24/wiki), [IMA Section](https://github.com/lenincompres/ima-noc-2024/wiki)
+[Submit a link to your documentation of the course wiki](https://github.com/nature-of-code/noc-syllabus-s25/wiki/ITP-Assignment-6)
 
 ## Emoji Key
 

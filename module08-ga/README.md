@@ -56,7 +56,7 @@ For each module, I will provide a list of additional video tutorials and reading
 
 ## Assignment
 
-- Create a final project proposal. See [final project guidelines](https://github.com/nature-of-code/noc-syllabus-S24/blob/main/projects/final/README.md). Submit a link to your proposal [on the course wiki](https://github.com/nature-of-code/noc-syllabus-S24/wiki), project ideas will be shared split over the next two classes (schedule on the wiki).
+- Create a final project proposal. See [final project guidelines](https://github.com/nature-of-code/noc-syllabus-S25/blob/main/projects/final/README.md). Submit a link to your proposal [on the course wiki](https://github.com/nature-of-code/noc-syllabus-S25/wiki), project ideas will be shared split over the next two classes (schedule on the wiki).
 
 ## Emoji Key
 

@@ -5,6 +5,7 @@
 For each module, I will provide written and video tutorials on the topics. You can review whichever format suits you best. If the amount feels overwhelming, please reach out and we can help you narrow things down, and select a subset of the material to focus an exercise around. It's a lot!
 
 - 📗 [Nature of Code Chapter 9: Genetic Algorithms](https://natureofcode.com/genetic-algorithms/)
+- 🛝 [GA Slides](https://docs.google.com/presentation/d/1-NFNnowkJCnQNg1ILd-L5TxE3T9bZcQAoGz5EK3ApU0/edit?usp=sharing)
 - 📕 [Section 11.3 from Kate Compton’s Doctoral Thesis “Casual Creators”](http://www.galaxykate.com/pdfs/kcompton-dissertation-casualcreators.pdf) (p. 262 - 267) (2019)
 - 🎥 [Karl Sims Evolved Virtual Creatures](https://youtu.be/RZtZia4ZkX8) - 4 min
 - 🚂 9.1 [Introduction to Genetic Algorithms](https://thecodingtrain.com/tracks/the-nature-of-code-2/noc/9-genetic-algorithms/1-introduction) - 12 min
@@ -25,6 +26,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 - [Karl Sims Evolved Virtual Creatures](https://youtu.be/RZtZia4ZkX8)
 - [“Drawing Machine”](http://www.yeonheelee.com/week12-final-project/) by Yeonhee Lee
 - [The Problem with Evolutionary Art Is](http://philipgalanter.com/downloads/evostar2010%20-%20galanter%20-%20the%20problem%20with%20evo%20art.pdf) Galanter, Philip, 2010.
+- [Genetic Cars](https://rednuht.org/genetic_cars_2/)
 
 ## Supplemental Material
 

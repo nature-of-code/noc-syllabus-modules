@@ -9,6 +9,7 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 📗 [Chapter 7](https://natureofcode.com/cellular-automata/)
 - 🚂 [Wolfram CA Coding Challenge](https://thecodingtrain.com/challenges/179-wolfram-ca) - 21 min
 - 🚂 [Game of Life Coding Challenge](https://thecodingtrain.com/CodingChallenges/085-the-game-of-life.html) - 38 min
+- 🛝 [CA slides](https://docs.google.com/presentation/d/1LaAbIt4r3HyUzwfJLfMJIGobddIRn-POoK5J6eYRLDM/edit?usp=sharing)
 
 ### Fractals
 
@@ -30,6 +31,8 @@ For each module, I will provide written and video tutorials on the topics. You c
 - [Parable of the Polygons](https://ncase.me/polygons/) by Nicky Case and Vi Hart
 - [Sandspiel](https://sandspiel.club/) by Max Bittker
 - [The Game Of Life - Emergence In Generative Art](https://www.artnome.com/news/2020/7/12/the-game-of-life-emergence-in-generative-art)
+- [Space Filler Art CA work](https://www.instagram.com/p/ChS6x3slQx1/)
+- [Lenia: continuous cellular automata](https://chakazul.github.io/lenia.html)
 - [Fractal Typeface](https://100.sta-chicago.org/winners/2023/fractal-typeface) by Bei Hu
 - [The Fractals at the Heart of African Designs](https://www.ted.com/talks/ron_eglash_the_fractals_at_the_heart_of_african_designs?language=en#t-4262)
 - [Fractals in Thai Cultural Designs](https://kvis.ac.th/userfiles/files/Fractals_full%20paper-corrected.pdf)

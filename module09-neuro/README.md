@@ -11,11 +11,10 @@ For each module, I will provide written and video tutorials on the topics. You c
 - 🚂 [Train a Neural Network with ml5.js](https://thecodingtrain.com/tracks/ml5js-beginners-guide/ml5/6-train-your-own-neural-network/1-train-the-model) (35 minutes)
 - 💻 [All Chapter 10 and 11 Examples](https://editor.p5js.org/natureofcode/collections/HkRZWLqOXS)
 
-### ml5.js "next generation" alpha
+### ml5.js 1.0
 
-- [ml5.js next gen alpha examples](https://editor.p5js.org/ml5/collections/pUzWMkdmE)
-- [ml5.js next gen temporary docs](https://github.com/ml5js/ml5-next-gen/blob/main/documentation.md)
-- [ml5.js next gen repo](https://github.com/ml5js/ml5-next-gen)
+- [ml5.js 1.0 examples](https://editor.p5js.org/ml5/collections/pUzWMkdmE)
+- [ml5.neuralNetwork() reference](https://docs.ml5js.org/#/reference/neural-network)
 
 ### Reference Research and Artistic Work:
 

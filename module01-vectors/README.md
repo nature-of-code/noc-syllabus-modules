@@ -49,7 +49,7 @@ Try using vectors! Here are some suggestions:
   - Narrate the process of creating your sketch.
   - What resources and examples did you draw on to create your sketch? What was most helpful / least helpful from this week’s materials.
   - What problems/discoveries did you encounter along the way?
-- Submit a link to your blog post to the course wiki. - [ITP Section](https://github.com/nature-of-code/noc-syllabus-S25/wiki)
+- Submit a link to your blog post to the course wiki. - [ITP Section](https://github.com/lenincompres/noc-syllabus-s26/wiki/Assignment-2)
 
 
 ## Emoji Key
